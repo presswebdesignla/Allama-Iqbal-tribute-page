@@ -38,6 +38,10 @@
 	color: #CC0000
 	
 }
+#image {
+max-width: 500px;
+display: block;
+}
 .center {
 	text-align: center;
 	margin: auto;
